@@ -173,3 +173,5 @@ The dataset contains Amazon sales transactions with the following fields:
 - Only **1.2% difference** between Completed and Pending - very close race!
 
 
+## 🛠️ Full Data analysis code (SQL)
+- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/Full%20project%20SQL-code.sql">Amazon-sales-analysis-SQL</a>
