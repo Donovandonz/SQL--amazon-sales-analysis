@@ -141,7 +141,7 @@ The dataset contains Amazon sales transactions with the following fields:
 
 
 ### 📈 **Category Insights**
-- **Highest Average Price Category**: 
+- **Average Price Category**: 
 - **Most Ordered Product by Category**:
 
 | Category | Product | Order Count | AVG Price per Product |
