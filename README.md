@@ -46,17 +46,21 @@ The dataset contains Amazon sales transactions with the following fields:
 | # | Question | SQL File |
 |---|----------|----------|
 | 1 | What is the date range of orders in the dataset? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/01_exploratory_queries.sql">01_exploratory_queries.sql</a>|
-| 2 | Which products are most ordered by category? | `03_exploratory_queries.sql` |
-| 3 | What payment methods do customers prefer? | `03_exploratory_queries.sql` |
-| 4 | What are the least and most expensive items? | `03_exploratory_queries.sql` |
-| 5 | How much revenue does each product generate? | `03_exploratory_queries.sql` |
-| 6 | What is the average price per category? | `03_exploratory_queries.sql` |
-| 7 | How many orders are placed each day? | `03_exploratory_queries.sql` |
-| 8 | What are the top 5 revenue-generating products? | `04_business_insights.sql` |
-| 9 | Where are customers located? | `04_business_insights.sql` |
-| 10 | What is the order status distribution? | `04_business_insights.sql` |
-| 11 | Which products had more than 90 orders? | `04_business_insights.sql` |
-| 12 | What are the least ordered items? | `04_business_insights.sql` |
+| 2 | Which products are most ordered by category? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/02_exploratory_queries.sql">02_exploratory_queries.sql</a>|
+| 3 | What payment methods do customers prefer? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/03_exploratory_queries.sql">03_exploratory_queries.sql</a>|
+| 4 | What are the least and most expensive items? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/04_exploratory_queries.sql">04_exploratory_queries.sql</a> |
+| 5 | How much revenue does each product generate? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/05_exploratory_queries.sql">05_exploratory_queries.sql</a>
+|
+| 6 | What is the average price per category? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/06_exploratory_queries.sql">06_exploratory_queries.sql</a> |
+| 7 | How many orders are placed each day? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/07_exploratory_queries.sql">07_exploratory_queries.sql</a> |
+| 8 | What are the top 5 revenue-generating products? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/08_business_insights.sql">08_business_insights.sql</a> |
+| 9 | Where are customers located? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/09_business_insights.sql">09_business_insights.sql</a>
+ |
+| 10 | What is the order status distribution? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/10_business_insights.sql">10_business_insights.sql</a>
+ |
+| 11 | Which products had more than 90 orders? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/11_business_insights.sql">11_business_insights.sql</a>
+ |
+| 12 | What are the least ordered items? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/12_business_insights.sql">12_business_insights.sql</a> |
 
 ## 💡 Key Insights
 
