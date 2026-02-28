@@ -141,16 +141,16 @@ The dataset contains Amazon sales transactions with the following fields:
 
 
 ### 📈 **Category Insights**
-- **Highest Average Price Category**: [Category name]
+- **Highest Average Price Category**: 
 - **Most Ordered Product by Category**:
 
-| Category | Product | Order Count |
-|----------|---------|-------------|
-| Electronics | Smartphone | 140 |
-| Footwear | Running Shoes | 108 |
-| Books | Book | 100 |
-| Home Appliances | Refrigerator | 96 |
-| Clothing | T-Shirt | 80 |
+| Category | Product | Order Count | AVG Price per Product |
+|----------|---------|-------------|-----------------------|
+| Electronics | Smartphone | 140 | $375 |
+| Footwear | Running Shoes | 108 | $60 |
+| Books | Book | 100 | $15 |
+| Home Appliances | Refrigerator | 96 | $960 |
+| Clothing | T-Shirt | 80 | $30 |
 
 **Key Order Pattern Insights:**
 - **Smartphone** leads in order volume with 140 orders
