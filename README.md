@@ -72,7 +72,7 @@ The dataset contains Amazon sales transactions with the following fields:
 ### 📈 **Category Insights**
 - **Electronics dominate** the top 5 with 4 out of 5 products
 - **Refrigerator** is the clear revenue leader at $312,000
-- **Smartwatch** has potential for growth as the lowest in top 5 at $63000
+- **Smartwatch** has potential for growth as the lowest in top 5 at $63,000
 
 
 ### 💳 **Payment Preferences**
