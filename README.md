@@ -45,7 +45,7 @@ The dataset contains Amazon sales transactions with the following fields:
 
 | # | Question | SQL File |
 |---|----------|----------|
-| 1 | What is the date range of orders in the dataset? | `03_exploratory_queries.sql` |
+| 1 | What is the date range of orders in the dataset? |- <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/01_exploratory_queries.sql">01_exploratory_queries.sql</a>|
 | 2 | Which products are most ordered by category? | `03_exploratory_queries.sql` |
 | 3 | What payment methods do customers prefer? | `03_exploratory_queries.sql` |
 | 4 | What are the least and most expensive items? | `03_exploratory_queries.sql` |
