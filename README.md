@@ -6,12 +6,14 @@ This project analyzes Amazon sales data using SQL to uncover key business insigh
 # Dataset used
 - <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/amazon_sales_data%202025.csv">RAW.Amazon-datasets</a>
 
+---
 
 ## 🛢️ Database & Tools
 - **Database**: MySQL
 - **Tool Used**: MySQL Workbench
 - **Techniques**: Data cleaning, CTEs, aggregations, date functions, filtering, and grouping
 
+---
 
 ## 📂 Dataset Description
 The dataset contains Amazon sales transactions with the following fields:
@@ -30,6 +32,8 @@ The dataset contains Amazon sales transactions with the following fields:
 | `payment_method` | Payment method used |
 | `status` | Order status |
 
+---
+
 ## 🔍 SQL Techniques Used
 - ✅ **Table creation & cloning** (`CREATE TABLE ... LIKE`, `INSERT INTO ... SELECT`)
 - ✅ **Duplicate detection** (`ROW_NUMBER()`, `PARTITION BY`)
@@ -40,6 +44,8 @@ The dataset contains Amazon sales transactions with the following fields:
 - ✅ **Filtering** (`WHERE`, `HAVING`)
 - ✅ **Date functions** (`MIN()`, `MAX()`, `DATEDIFF()`)
 - ✅ **Limit queries** (`LIMIT`)
+
+---
 
 ## 📊 Key Business Questions Answered
 
@@ -74,6 +80,7 @@ The dataset contains Amazon sales transactions with the following fields:
 - **Refrigerator** is the clear revenue leader at $312,000
 - **Smartwatch** has potential for growth as the lowest in top 5 at $63,000
 
+---
 
 ### 💳 **Payment Preferences**
 
@@ -91,6 +98,7 @@ The dataset contains Amazon sales transactions with the following fields:
 - Digital payments (**PayPal + Amazon Pay**) make up **40.4%** of transactions
 - Payment methods are fairly distributed, with only **7.6%** difference between 1st and 5th place
 
+---
 
 ### 📦 **Order Patterns**
 - **Date Range**: From 2025-02-02 to 2025-04-02 (59 days of data)
@@ -112,6 +120,7 @@ The dataset contains Amazon sales transactions with the following fields:
 - **7 products** exceeded 90+ orders in just 59 days
 - **Running Shoes** (108) is the only non-electronics item in the high-volume list
 
+---
 
 ### 🌍 **Customer Distribution**
 - **Top Customer Locations**:
@@ -139,7 +148,6 @@ The dataset contains Amazon sales transactions with the following fields:
 
 
 
-
 ### 📈 **Category Insights**
 - **Average Price Category**: 
 - **Most Ordered Product by Category**:
@@ -157,6 +165,7 @@ The dataset contains Amazon sales transactions with the following fields:
 - **7 products** exceeded 90+ orders in just 59 days
 - **Electronics dominates** with 4 out of 7 products in the 90+ club
 
+---
 
 ### 📊 **Order Status**
 
@@ -172,6 +181,7 @@ The dataset contains Amazon sales transactions with the following fields:
 - **Pending orders** at 34% (340 orders) show potential for conversion
 - Only **1.2% difference** between Completed and Pending - very close race!
 
+---
 
 ## 🛠️ Full Data analysis code (SQL)
 - <a href="https://github.com/Donovandonz/SQL--amazon-sales-analysis/blob/main/Full%20project%20SQL-code.sql">Amazon-sales-analysis-SQL</a>
